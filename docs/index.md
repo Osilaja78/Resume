@@ -2,13 +2,14 @@
 ## Curriculum Vitae
 #### EDUCATION
 ---
-Ladoke Akintola University of Technology, Oyo							       Nov 2019 - Present
+**Ladoke Akintola University of Technology, Oyo (Nov 2019 - Present)**
+
 B.Tech. Physiology.
 
 
 #### PROFESSIONAL EXPERIENCE
 ---
-**HNG Internship 9.0 										     Oct 2022 - Dec 2022**
+**HNG Internship 9.0 (Oct 2022 - Dec 2022)**
 
 Python backend software developer intern.
 
@@ -18,7 +19,7 @@ Python backend software developer intern.
 * Experienced a 75% improvement in technical skills throughout the internship program.
 * Completed 10 major backend development stages, each within strict deadlines, showcasing adaptability and time management ability.
 
-**Ingressive for Good Open Source Challenge 								          Oct 2022**
+**Ingressive for Good Open Source Challenge (Oct 2022)**
 
 React.js software developer.
 
@@ -52,16 +53,16 @@ React.js software developer.
 
 #### CERTIFICATIONS
 ---
-**ALX Software Engineering Programme 							        February 2023 - April 2024**
+**ALX Software Engineering Programme (February 2023 - April 2024)**
 
 * Full-stack software developer with specialization in backend development.
 * Skills acquired: DevOps, Linux, JavaScript, Python, SQL, TypeScript, Technical Writing, communication skill, team collaboration.
 
-**Zuri Training 										             May 2022 - August 2022**
+**Zuri Training (May 2022 - August 2022)**
 * Full-stack software developer.
 * Skills acquired: Python, Django, REST API, SQL, MySQL.
 
-**AptLearn Technical Writing Certificate Course                         Oct 2022**
+**AptLearn Technical Writing Certificate Course (Oct 2022)**
 
 * Specialization in the development of technical writing skills.
 * Skills acquired: Documentatin, English Language Proficiency, Markdown.
